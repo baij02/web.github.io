@@ -9,7 +9,7 @@ permalink: /
 code {padding: 6px 8px; font-size: 90%;}
 </style>
 
-# Welcome!
+# Hi!
 
 <br/>
 #### `$whoami`
