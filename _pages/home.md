@@ -14,11 +14,7 @@ code {padding: 6px 8px; font-size: 90%;}
 <br/>
 #### `$whoami`
 
-New biomedical devices and therapies stand to improve human health outcomes the world over.
-Though innovating in this space is challenging, predictive simulation tools provide a promising path forward.
-I am a computational scientist who clears these paths via new data-driven models, numerical algorithms, and extreme-scale software.
-Recent examples include the <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">most efficient sub-grid model</a> for simulating cavitation, a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-PRE-19.pdf" target="_blank">very-low-order model</a> for cell-scale blood flow, and <a href="https://mfc-caltech.github.io/" target="_blank">MFC</a>, my scalable open-source multi-phase flow solver.
-These developments guide biomicrofluidic device design and improve human patient outcomes for a range of medical treatments (e.g. burst-wave <a href="https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/lithotripsy" target="_blank">lithotripsy</a>).
+Welcome to the Bai BioComp Lab! We’re a research group at <a href="https://www.uc.edu/" target="_blank"> University Cincinnati </a>, and we're using artificial intelligence to push the boundaries of healthcare. Our work dives into AI-powered immune checkpoint inhibitor discovery, analyzing genomic data, and figuring out better ways to spot potential treatment targets. We’re also working on improving how we detect cancer through smarter medical image analysis. In the big picture, we're aiming to help make precision medicine more personal, more effective, and more accessible for everyone.
 
 <br/>
 
