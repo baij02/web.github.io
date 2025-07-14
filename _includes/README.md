@@ -1,8 +1,8 @@
-# Dr. Spencer Bryngelson's academic website
+# Dr. Jun Bai's Research Lab Website
 
-This is my statically-generated Jekyll/Liquid/Bootstrap-based website.
-I started with the [Allan lab](https://www.allanlab.org/) webpage and modified it into a personal academic webpage that met my requirements.
-I worked in a unique set of the features that I desired and could not find in publicly available templates elsewhere.
+This is our statically-generated Jekyll/Liquid/Bootstrap-based website.
+I started with the [Allan lab](https://www.allanlab.org/) webpage and modified it into a research lab webpage that met out lab's requirements.
+The unique set of the features are added by Dr. Ethan Pickering (https://ethan-pickering.github.io/). We did not utilize all unique features. 
 Some examples are:
 
 * Automatically-generated buttons for DOI/PDF/ARXIV/BIB/Abstract information
@@ -13,7 +13,7 @@ Some examples are:
 * Dark color scheme
 * Consistent and attractive `About me` page
 
-I encourage the use of this webpage as a template for your own academic website.
+To use of this webpage as a template for your own academic website.
 The remainder of this document describes how to do this.
 Broadly speaking, there are three steps:
 
